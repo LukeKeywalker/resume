@@ -11,8 +11,7 @@ lazy val resume = project
         .withModuleSplitStyle(ModuleSplitStyle.SmallModulesFor(List("resume")))
     },
     libraryDependencies ++= Seq(
-      "org.scala-js"  %%% "scalajs-dom" % "2.8.0",
-      "com.raquo"     %%% "laminar"     % "17.0.0",
-      "org.scalameta" %%% "munit"       % "1.0.0" % Test
+      "org.scala-js" %%% "scalajs-dom" % "2.8.0",
+      "com.raquo"    %%% "laminar"     % "17.0.0"
     )
   )
