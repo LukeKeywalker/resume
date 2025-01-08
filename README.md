@@ -1,6 +1,6 @@
 # Resume
 
-Personal resume page hosted at [https://lukasz.michniewicz.contact]()
+Personal resume page hosted at [https://lukasz.michniewicz.contact](https://lukasz.michniewicz.contact)
 
 ## Editing
 
